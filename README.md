@@ -1,7 +1,7 @@
 # End to End Data Analysis: A Case Study in Navigating Ambiguous Data
 
 **<h3>Project Summary & Key Skills Demonstrated</h3>**
-<div align="justify">This project showcases a complete data analysis workflow, pivoting from a standard cost-saving analysis into a rigorous case study on data integrity validation and analytical problem solving after discovering the dataset's pricing data was likely synthetic.</div>
+<div align="justify">This project showcases a complete data analysis workflow, pivoting from a standard cost saving analysis into a rigorous case study on data integrity validation and analytical problem solving after discovering the dataset's pricing data was likely synthetic.</div>
 <div align="justify">The final deliverables include a robust data pipeline in PostgreSQL, a comprehensive set of investigative SQL queries, and an interactive Tableau dashboard focused on visualizing the only reliable insights from the dataset: the consumption patterns.
 
 <p></p>
