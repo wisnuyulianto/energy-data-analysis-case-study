@@ -9,7 +9,7 @@
 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Electric_17518138121650/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <h4>Key Skills Demonstrated</h4>
-This project is a practical demonstration of critical real-world analytical skills:
+This project is a practical demonstration of critical real world analytical skills:
 
 * **Problem Solving & Critical Thinking:** Identified that initial assumptions about the data's pricing structure were incorrect and systematically proved it through a series of targeted SQL queries.
 * **Data Integrity & Validation:** Showcased the crucial importance of validating data before deriving business insights. An analyst must trust but always verify their data.
