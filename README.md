@@ -6,6 +6,8 @@
 
 <p></p>
 
+![dashboard preview](https://github.com/wisnuyulianto/energy-data-analysis-case-study/blob/main/visualizations/dashboard_preview.png)
+
 [View the Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Electric_17518138121650/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <h4>Key Skills Demonstrated</h4>
@@ -78,17 +80,5 @@ This project utilizes an industry standard workflow, separating backend data pro
 * **Data Transformation & Analysis:** SQL (using CTEs and Window Functions)
 * **Data Visualization & Dashboard:** Tableau Public
 
-<br>
 
-**<h3>Dashboard & Key Visualizations [LINK](https://public.tableau.com/views/Electric_17518138121650/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)</h3>**
-The final dashboard focuses on providing a clear overview of **energy consumption patterns**, as the pricing data was found to be unreliable for tariff analysis.
-
-![dashboard preview](https://github.com/wisnuyulianto/energy-data-analysis-case-study/blob/main/visualizations/dashboard_preview.png)
-<h4>Key Visualizations:</h4>
-
-- **Consumption Heatmap:** Visualizes the "hottest" times for energy usage by hour and day of the week.
-- **Monthly Consumption Trend:** A bar chart showing total energy usage month over month.
-- **Total Cost Comparison:** A simple comparison of the total annual cost based on the three (likely random) pricing columns provided.
-
-</div>
 
